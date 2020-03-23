@@ -1,0 +1,20 @@
+{
+    "name": "Test",
+    "description": "Sample.",
+    "author": "Uziel2021/_atom",
+    "contact": "https://www.unknowncheats.me/forum/members/1077012.html",
+    "version": "1.0",
+    "blt_version": 2,
+    "priority": 100,
+    "keybinds": [
+        {
+            "keybind_id": "a94a8fe5ccb19ba61c4c0873d391e987982fbbd3",
+            "name": "Run Custom Script",
+            "description": "-",
+            "script_path": "test.lua",
+            "run_in_menu": true,
+            "run_in_game": true,
+            "localized": false
+        }
+    ]
+}
